@@ -2,6 +2,11 @@
 #
 .DS_Store
 
+*.so
+android/app/build/
+android/build/
+ios/build/
+
 # Xcode
 #
 build/
